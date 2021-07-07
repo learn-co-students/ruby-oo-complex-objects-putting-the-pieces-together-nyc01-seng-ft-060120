@@ -1,3 +1,4 @@
+require 'pry'
 describe 'Shoe' do
   let(:shoe) { Shoe.new("Nike") }
 
